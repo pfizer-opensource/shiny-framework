@@ -1,0 +1,15 @@
+capture: 1
+files: 0
+load: 0
+flag_select: EFFFL
+table_vars:
+- ARMfac
+- AGEfac
+group_vars: RACEfac
+safety_pop_select: 'Y'
+footnote: ''
+table_number: '1'
+title: ''
+subtitle: ''
+inputsName: inputs
+exportsName: exports
